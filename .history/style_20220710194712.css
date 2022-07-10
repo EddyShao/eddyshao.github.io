@@ -105,23 +105,23 @@ div.directory {
 /* Set button color */
 button.about {
     background-color: white;
-    color: #1564BF;
-    border: 2px solid #1564BF;
+    color: #003B8E;
+    border: 2px solid #003B8E;
 }
 
 button.about:hover {
-    background-color: #1564BF;
+    background-color: #003B8E;
     color: white;
 }
 
 button.publications {
     background-color: white;
-    color: #99c27c;
-    border: 2px solid #99c27c;
+    color: #1564BF;
+    border: 2px solid #1564BF;
 }
 
 button.publications:hover {
-    background-color: #99c27c;
+    background-color: #1564BF;
     color: white;
 }
 
@@ -140,9 +140,9 @@ button.projects:hover {
     background-color: white;
     color: #65b0ed;
     border: 2px solid #65b0ed;
-}
+} */
 
-button.honors-awards:hover {
+/* button.honors-awards:hover {
     background-color: #65b0ed;
     color: white;
 } */
@@ -163,15 +163,15 @@ button.more:hover {
 /* Start link color */
 
 a.about-link:link, a.about-link:visited {
-    color: #5191F2;
+    color: #003B8E;
 }
 
 a.about-link:hover, a.about-link:active {
-    color: #92B8FF;
+    color: #fe9d97;
 }
 
 a.publication-link:link, a.publication-link:visited {
-    color: #99c27c;
+    color: #1564BF;
 }
 
 a.publication-link:hover, a.publication-link:active {

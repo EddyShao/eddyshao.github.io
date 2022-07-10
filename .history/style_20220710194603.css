@@ -105,12 +105,12 @@ div.directory {
 /* Set button color */
 button.about {
     background-color: white;
-    color: #1564BF;
-    border: 2px solid #1564BF;
+    color: #de6d77;
+    border: 2px solid #de6d77;
 }
 
 button.about:hover {
-    background-color: #1564BF;
+    background-color: #de6d77;
     color: white;
 }
 
@@ -140,9 +140,9 @@ button.projects:hover {
     background-color: white;
     color: #65b0ed;
     border: 2px solid #65b0ed;
-}
+} */
 
-button.honors-awards:hover {
+/* button.honors-awards:hover {
     background-color: #65b0ed;
     color: white;
 } */
@@ -163,11 +163,11 @@ button.more:hover {
 /* Start link color */
 
 a.about-link:link, a.about-link:visited {
-    color: #5191F2;
+    color: #de6d77;
 }
 
 a.about-link:hover, a.about-link:active {
-    color: #92B8FF;
+    color: #fe9d97;
 }
 
 a.publication-link:link, a.publication-link:visited {
