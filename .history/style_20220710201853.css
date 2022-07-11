@@ -230,19 +230,15 @@ div.footer {
 
 @media screen and (max-width: 600px) {
     h1 {
-        font-size: 28px;
+        font-size: 24px;
     }
 
     h2 {
         font-size: 20px;
     }
 
-    h3 {
-        font-size: 16px
-    }
-
     p {
-        font-size: 14px;
+        font-size: 12px;
     }
 
     a.link-icon {
