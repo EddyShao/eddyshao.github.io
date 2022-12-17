@@ -136,16 +136,16 @@ button.projects:hover {
     color: white;
 }
 
-/* button.honors-awards {
+button.cv {
     background-color: white;
     color: #65b0ed;
     border: 2px solid #65b0ed;
 }
 
-button.honors-awards:hover {
+button.cv:hover {
     background-color: #65b0ed;
     color: white;
-} */
+}
 
 button.more {
     background-color: white;
@@ -203,7 +203,7 @@ span.date {
 
 div.publications,
 div.projects,
-div.honors-awards,
+div.cv,
 div.more {
     display: none;
     transition-duration: 1s;
