@@ -125,13 +125,13 @@ button.publications:hover {
     color: white;
 }
 
-button.projects {
+button.teaching {
     background-color: white;
     color: #e4bf7f;
     border: 2px solid #e4bf7f;
 }
 
-button.projects:hover {
+button.teaching:hover {
     background-color: #e4bf7f;
     color: white;
 }
