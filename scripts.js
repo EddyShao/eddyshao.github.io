@@ -30,6 +30,14 @@ function show_cv() {
     document.getElementById("cv").style.display = "block"
 }
 
+function show_teaching() {
+    const contents = document.getElementsByClassName("content");
+    for (const content of contents) {
+        content.style.display = 'none';
+    }
+    document.getElementById("teaching").style.display = "block";
+}
+
 function show_more() {
     const contents = document.getElementsByClassName("content")
     for (const content of contents) {
