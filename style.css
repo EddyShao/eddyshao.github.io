@@ -136,17 +136,6 @@ button.teaching:hover {
     color: white;
 }
 
-button.cv {
-    background-color: white;
-    color: #65b0ed;
-    border: 2px solid #65b0ed;
-}
-
-button.cv:hover {
-    background-color: #65b0ed;
-    color: white;
-}
-
 button.more {
     background-color: white;
     color: #c57bdb;
@@ -203,7 +192,6 @@ span.date {
 
 div.publications,
 div.projects,
-div.cv,
 div.more {
     display: none;
     transition-duration: 1s;

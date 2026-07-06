@@ -22,14 +22,6 @@ function show_projects() {
     document.getElementById("projects").style.display = "block"
 }
 
-function show_cv() {
-    const contents = document.getElementsByClassName("content")
-    for (const content of contents) {
-        content.style.display = 'none'
-    }
-    document.getElementById("cv").style.display = "block"
-}
-
 function show_teaching() {
     const contents = document.getElementsByClassName("content");
     for (const content of contents) {
